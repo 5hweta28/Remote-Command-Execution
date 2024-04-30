@@ -6,9 +6,12 @@ Design a Python-based system for remote command execution using socket programmi
 **Requirements:**
 
 1. Server Operations:
- The server should be able to handle multiple client connections simultaneously.
- Display a list of connected clients.
- Accept commands from connected clients for remote execution.
+
+- The server should be able to handle multiple client connections simultaneously.
+  
+- Display a list of connected clients.
+
+- Accept commands from connected clients for remote execution.
 2. Client Operations:
  Clients should be able to connect to the server.
  Clients can send shell commands to the server for execution.
