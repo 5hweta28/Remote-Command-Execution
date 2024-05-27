@@ -24,3 +24,5 @@ Design a Python-based system for remote command execution using socket programmi
 - Implement error handling mechanisms to deal with scenarios like client disconnections and invalid commands.
 7. Optional Enhancements:
 - Allow clients to upload/download files to/from the server.
+
+![image](https://github.com/5hweta28/Remote-Command-Execution/assets/113817351/2ad31c4b-7387-40b8-aed9-32e0ec383eee)
